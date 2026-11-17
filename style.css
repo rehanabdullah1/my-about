@@ -38,7 +38,7 @@ body {
 }
 
 .logo span {
-    color: #4b91ff;
+    color: #ffffff;
 }
 
 .navbar nav {
@@ -92,7 +92,7 @@ main {
     display: inline-block;
     width: 7px;
     height: 7px;
-    background: #4b91ff;
+    background: #ffffff;
     border-radius: 50%;
     margin-right: 7px;
 }
@@ -106,7 +106,7 @@ main {
 }
 
 .hero h1 span {
-    color: #4b91ff;
+    color: #ffffff;
 }
 
 .hero-description {
@@ -141,7 +141,7 @@ main {
 }
 
 .button.primary:hover {
-    background: #4b91ff;
+    background: #ffffff;
     transform: translateY(-2px);
 }
 
@@ -170,7 +170,7 @@ main {
 }
 
 .section-heading span {
-    color: #4b91ff;
+    color: #ffffff;
     font-size: 12px;
     font-weight: 700;
 }
@@ -208,7 +208,7 @@ main {
 }
 
 .interest-number {
-    color: #4b91ff;
+    color: #ffffff;
     font-size: 12px;
     padding-top: 3px;
 }
@@ -259,7 +259,7 @@ main {
 }
 
 .project-arrow {
-    color: #4b91ff;
+    color: #ffffff;
     font-size: 19px;
 }
 
@@ -302,7 +302,7 @@ footer a {
 }
 
 footer a:hover {
-    color: #4b91ff;
+    color: #ffffff;
 }
 
 /* Mobile */
